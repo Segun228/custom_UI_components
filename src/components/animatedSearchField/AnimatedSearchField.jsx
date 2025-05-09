@@ -1,5 +1,5 @@
 import "./animatedSearchField.css"
-import glass from "./../../assets/vectors/glass.svg"
+import glass from "./glass.svg"
 const AnimatedSearchField = () => {
     return(
     <>
